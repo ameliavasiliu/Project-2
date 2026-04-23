@@ -12,7 +12,7 @@ This repository contains a full data science pipeline for detecting credit card 
 
 **NetID:** ega9cw 
 
-**DOI:** *[Add your Zenodo DOI here after creating it]*
+**DOI:** https://doi.org/10.5281/zenodo.19703085
 
 **Press Release:** [Catching Fraud Before It Happens: Can an Algorithm Protect Your Credit Card?](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/Press_Release.md)
 
