@@ -9,10 +9,15 @@ This repository contains a full data science pipeline for detecting credit card 
 ---
 
 **Name:** Amelia Vasiliu
-**NetID:** ega9cw  
-**DOI:** *[Add your Zenodo DOI here after creating it]*  
+
+**NetID:** ega9cw 
+
+**DOI:** *[Add your Zenodo DOI here after creating it]*
+
 **Press Release:** [Catching Fraud Before It Happens: Can an Algorithm Protect Your Credit Card?](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/Press_Release.md)
-**Pipeline:** [Code/pipeline.ipynb](Code/pipeline.ipynb)  
+
+**Pipeline:** [Code/pipeline.ipynb](Code/pipeline.ipynb)
+
 **License:** MIT — [LICENSE](LICENSE)
 
 ## Problem Definition
