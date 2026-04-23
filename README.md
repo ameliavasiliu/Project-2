@@ -16,7 +16,7 @@ This repository contains a full data science pipeline for detecting credit card 
 
 **Press Release:** [Catching Fraud Before It Happens: Can an Algorithm Protect Your Credit Card?](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/Press_Release.md)
 
-**Pipeline:** [Code/pipeline.ipynb](Code/pipeline.ipynb)
+**Pipeline:** [Link to Pipeline Folder in GitHub](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/Pipeline/Pipeline.ipynb)
 
 **License:** MIT — [LICENSE](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/LICENSE)
 
