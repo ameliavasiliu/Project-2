@@ -18,7 +18,7 @@ This repository contains a full data science pipeline for detecting credit card 
 
 **Pipeline:** [Code/pipeline.ipynb](Code/pipeline.ipynb)
 
-**License:** MIT — [LICENSE](LICENSE)
+**License:** MIT — [LICENSE](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/LICENSE)
 
 ## Problem Definition
 
