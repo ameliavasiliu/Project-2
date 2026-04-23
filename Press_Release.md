@@ -39,4 +39,5 @@ The chart below visualizes the class distribution of credit card transactions,
 illustrating the extreme imbalance between legitimate and fraudulent transactions
 that sits at the core of this problem.
 
-![Credit Card Transaction Class Distribution](fraud_distribution.png)
+<img width="791" height="490" alt="Screenshot 2026-04-22 at 10 50 11 PM" src="https://github.com/user-attachments/assets/8753fc26-4d01-4dc3-81b0-af31c551a572" />
+
